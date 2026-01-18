@@ -4,4 +4,4 @@
 
 Note: Unrelated to OASC (Open & Agile Smart Cities) in the smart-city interoperability domain.
 
-This repository is provided for reference. Responses may be slow or unavailable.
+This repository is provided for reference only.
