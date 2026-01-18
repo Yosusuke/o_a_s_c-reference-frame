@@ -1,4 +1,4 @@
-# g-oasc-poasc-framework
+# O/A/S/C Reference Frame
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18264328.svg)](https://doi.org/10.5281/zenodo.18264328)
 
